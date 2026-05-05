@@ -11,6 +11,9 @@
   <a href="https://github.com/gabrielpbarboza">
     <img src="https://img.shields.io/badge/GitHub-GABRIELPBARBOZA-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/gabrielpbarboza">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ## 🛠️ Tech Stack
