@@ -3,7 +3,7 @@
 - 🔭 I’m currently open to work
 - 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me: gabrielpbarboza@gmail.com
-- ⚡ Fun fact: I began my academic journey studying Advertising and completed my degree. When I started working, I realized it wasn’t what I wanted for my life. So, I began studying HTML and CSS. Now, I’m about to earn my degree in Systems Analysis and Development at FMU. I’m eager to work in this field, using the knowledge I gained from my previous degree, and I’m happy with my decision.
+- ⚡ Fun fact: I began my academic journey studying Advertising at Universidade Federal Fluminense and completed my degree. When I started working, I realized it wasn’t what I wanted for my life. So, I began studying HTML and CSS. Now, I’m about to earn my degree in Systems Analysis and Development at FMU-SP. I’m eager to work in this field, using the knowledge I gained from my previous degree, and I’m happy with my decision.
   
 ## 🌐 Where to find me
 
